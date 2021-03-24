@@ -1,0 +1,30 @@
+.center {
+    margin: 0 auto;
+    width: 80%;
+}
+
+#hp  {
+float: left;    
+ margin: 55px 0 0 15px;
+}
+
+.grid-container {
+  display: grid;
+  grid-gap: 50px 100px;
+  grid-template-columns: auto auto;
+  background-color: grey;
+  padding: 10px;
+}
+
+
+
+.responsive {
+  max-width: 50%;
+  height: auto;
+}
+
+.responsive2 {
+  max-width: 70%;
+  height: auto;
+}
+}
